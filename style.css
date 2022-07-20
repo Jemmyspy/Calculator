@@ -1,0 +1,41 @@
+*{
+    /* background-image: url("/bgc1.jpg" ); */
+    background-color: rgb(206, 206, 206);
+}
+
+
+.container{
+    text-align: center;
+    margin-top: 23px;
+    
+}
+table{
+    margin: auto;
+}
+
+input{
+    border: 4px solid rgb(123, 161, 241);
+    font-size: 31px;
+    margin-bottom: auto;
+
+    height: 100px;
+    border-radius: 18px;
+}
+
+
+button{
+    border-radius: 38px;
+    border: 6px solid #4b4b4b;
+    font-size: 30px;
+    background-color: #c2ebd4;
+    width: 90px;
+    height: 76px;
+}
+
+.calculator{
+    display: inline-block;
+    background-color: #06acb8;
+    border: 15px solid #5c3208;
+    border-radius: 45px;
+    height: 530px;
+}
